@@ -1,0 +1,24 @@
+What is the point of this project?
+----------------------------------
+This is merely an edit to the default Steam skin. This does
+not aim to make a whole new design but simply t move around
+the elements on the user interface so it matches closer to 
+the aesthetic of elementary OS.
+
+
+Status
+------
+As this isn't at the top of my priorities, I will just be
+making changes to it as time goes on with no set schedule.
+
+As of right now, only the main window has been modified.
+
+
+How to use?
+-----------
+Clone this repo and inside ~/.steam/steam/skins, make a new
+folder called "elementary_layout" and put the contents in.
+
+
+Thanks for reading!
+ꜱᴩʀɪᴛᴇ➀ <s.1@null.net>
